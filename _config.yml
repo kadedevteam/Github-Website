@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: "https://media.discordapp.net/attachments/855806170966261791/875947180005949481/lel.png"
 title: "Github-Pages-Demo-Theme"
 url: "https://kadedevteam.github.io/Github-Website-Demo/"
+show_downloads: true
